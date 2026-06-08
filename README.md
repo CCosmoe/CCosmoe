@@ -41,7 +41,7 @@ Currently: Working as an Apprentice at [Flatiron School](https://flatironschool.
 
 **Flatiron School** (Online)
 Certificate: AI & Data Science
-Expected Graduation: [April 2027]
+Expected Graduation: April 2027
 *This is part of the [Accelerated AI Engineering Immersive](https://flatironschool.com) program*
 
 **California Polytechnic State Universty San Luis Obispo** (In-person)
