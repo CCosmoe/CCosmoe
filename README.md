@@ -16,13 +16,12 @@ Currently: Working as an Apprentice at [Flatiron School](https://flatironschool.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=FF9900)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -68,6 +67,16 @@ Expected Graduation / Graduated: [Dec 2024]
 A neural network framework built entirely from scratch using only NumPy(no pytorch or tensorflow). Implements custom forward/backward propagation, activation functions (ReLU, Softmax), and cross-entropy loss with manual backprop. Deployed with an interactive Streamlit interface where you can tune the learning rate and epochs and watch the model train in real time.
 **Tech used:** Python, NumPy, Streamlit
 [Live Demo](https://neuralnetworks-hzjnmmyyvogdmmpkurmtnr.streamlit.app/) | [Repo](https://github.com/CCosmoe/neuralnetworks)
+
+### [Knowledge Bot](https://github.com/CCosmoe/knowledge-bot)
+Reduced IT support response time for Cal Poly students and professors by building a chatbot for Cal Poly ITS that answers common inquiries automatically using TF-IDF and OpenAI. Improved response accuracy by 80% by preprocessing 381 Knowledge Base files with NLTK for tokenization and stemming, then applying TF-IDF analysis to surface the top 3 most relevant documents per query.
+**Tech used:** Python, OpenAI, NLTK, TF-IDF
+[Repo](https://github.com/CCosmoe/KnowledgeBot)
+
+### [Pet Connect](https://github.com/CCosmoe/pet-connect)
+A full-stack web platform that lets users create profiles and connect with each other, built to make it easy for pet owners to find and message one another. Designed and implemented RESTful APIs for profile operations, and added a real-time chat feature supporting instant, low-latency messaging across 5+ user groups, driving the creation of 25+ profiles.
+**Tech used:** React, Node.js, RESTful APIs
+[Repo]([https://github.com/CCosmoe/pet-connect](https://github.com/CSC307Fall2023/PetPlace))
 
 ---
 
