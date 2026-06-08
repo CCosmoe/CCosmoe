@@ -42,12 +42,12 @@ Currently: Working as an Apprentice at [Flatiron School](https://flatironschool.
 ## 🎓 Education
 
 **Flatiron School** (Online)
-Certificate: [Program Name, e.g. AI & Data Science]
-Expected Graduation: [Month Year]
+Certificate: AI & Data Science
+Expected Graduation: [April 2027]
 *This is part of the [Accelerated AI Engineering Immersive](https://flatironschool.com) program*
 
-**[University or Bootcamp Name]** (Online / In-person)
-[Degree or Certificate]: [Field of Study]
+**[California Polytechnic State Universty San Luis Obispo]** (In-person)
+[Bachelors of Science]: [Computer Science]
 Expected Graduation / Graduated: [Month Year]
 
 ---
