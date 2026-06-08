@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad
 
-**AI/ML engineer building LLM evaluation systems and deep learning models with Python, PyTorch, and LangChain/OpenAI.**
+**[AI/ML engineer building LLM evaluation systems and deep learning models with Python, PyTorch, and LangChain/OpenAI.]**
 
 Currently: Working as an Apprentice at [Flatiron School](https://flatironschool.com)
 
@@ -40,20 +40,20 @@ Currently: Working as an Apprentice at [Flatiron School](https://flatironschool.
 ## 🎓 Education
 
 **Flatiron School** (Online)
-Certificate: AI & Data Science
-Expected Graduation: April 2027
+Certificate: [AI & Data Science]
+Expected Graduation: [April 2027]
 *This is part of the [Accelerated AI Engineering Immersive](https://flatironschool.com) program*
 
-**California Polytechnic State Universty San Luis Obispo** (In-person)
+**[California Polytechnic State Universty San Luis Obispo]** (In-person)
 [Bachelors of Science]: [Computer Science]
-Expected Graduation / Graduated: Dec 2024
+Expected Graduation / Graduated: [Dec 2024]
 
 ---
 ## 💼 Work
 **Title:** AI Engineering Immersive
 **Employer:** Flatiron School
 **Location:** Remote
-**Start Date:** Mar 2026
+**Start Date:** [Mar 2026]
 *This is part of the [Accelerated AI Engineering Immersive](https://flatironschool.com) program*
 
 **Previously:**
