@@ -46,9 +46,9 @@ Certificate: AI & Data Science
 Expected Graduation: [April 2027]
 *This is part of the [Accelerated AI Engineering Immersive](https://flatironschool.com) program*
 
-**[California Polytechnic State Universty San Luis Obispo]** (In-person)
+**California Polytechnic State Universty San Luis Obispo** (In-person)
 [Bachelors of Science]: [Computer Science]
-Expected Graduation / Graduated: [Month Year]
+Expected Graduation / Graduated: [Dec 2024]
 
 ---
 
@@ -57,7 +57,7 @@ Expected Graduation / Graduated: [Month Year]
 **Title:** Full-stack Software Apprentice
 **Employer:** Flatiron School
 **Location:** Remote
-**Start Date:** [Month Year]
+**Start Date:** [Mar 2026]
 *This is part of the [Accelerated AI Engineering Immersive](https://flatironschool.com) program*
 
 ---
