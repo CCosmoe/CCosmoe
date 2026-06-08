@@ -51,28 +51,25 @@ Expected Graduation: [April 2027]
 Expected Graduation / Graduated: [Dec 2024]
 
 ---
-
 ## 💼 Work
-
-**Title:** Full-stack Software Apprentice
+**Title:** AI Engineering Immersive
 **Employer:** Flatiron School
 **Location:** Remote
-**Start Date:** [Mar 2026]
+**Start Date:** Mar 2026
 *This is part of the [Accelerated AI Engineering Immersive](https://flatironschool.com) program*
 
+**Previously:**
+- **Founder** — Helwa AI · Remote · Aug 2025 – Present
+- **Software Engineer Intern** — Righton Education · Remote · Jan 2024 – Apr 2026
+- **ML Engineer Intern** — Motate · Remote · Feb 2025 – Apr 2025
 ---
 
 ## 🚀 Featured Projects
 
-### [Project Name](https://github.com/yourusername/project-repo)
-A brief description of what the project does and what problem it solves.
-**Tech used:** React, Node.js, MongoDB
-[Live Demo](https://your-demo-link.com) | [Repo](https://github.com/yourusername/project-repo)
-
-### [Project Name](https://github.com/yourusername/project-repo)
-A brief description of what the project does and what problem it solves.
-**Tech used:** TypeScript, PostgreSQL, Express
-[Live Demo](https://your-demo-link.com) | [Repo](https://github.com/yourusername/project-repo)
+### [VanillaNN](https://github.com/yourusername/vanilla-nn)
+A neural network framework built entirely from scratch using only NumPy(no pytorch or tensorflow). Implements custom forward/backward propagation, activation functions (ReLU, Softmax), and cross-entropy loss with manual backprop. Deployed with an interactive Streamlit interface where you can tune the learning rate and epochs and watch the model train in real time.
+**Tech used:** Python, NumPy, Streamlit
+[Live Demo](https://neuralnetworks-hzjnmmyyvogdmmpkurmtnr.streamlit.app/) | [Repo](https://github.com/CCosmoe/neuralnetworks)
 
 ---
 
