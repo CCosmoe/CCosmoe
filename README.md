@@ -90,3 +90,5 @@ A full-stack web platform that lets users create profiles and connect with each 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CCosmoe&show_icons=true&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CCosmoe&layout=compact&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CCosmoe&layout=compact&theme=dark&hide_border=true&hide=html,css)
