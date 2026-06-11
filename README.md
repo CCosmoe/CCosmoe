@@ -75,7 +75,7 @@ Reduced IT support response time for Cal Poly students and professors by buildin
 
 ### [Pet Connect](https://github.com/CSC307Fall2023/PetPlace)
 A full-stack web platform that lets users create profiles and connect with each other, built to make it easy for pet owners to find and message one another. Designed and implemented RESTful APIs for profile operations, and added a real-time chat feature supporting instant, low-latency messaging across 5+ user groups, driving the creation of 25+ profiles.
-**Tech used:** React, Node.js, RESTful APIs
+**Tech used:** React, Javascript, Node.js, RESTful APIs
 [Repo](https://github.com/CSC307Fall2023/PetPlace)
 
 ---
