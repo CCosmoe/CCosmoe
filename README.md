@@ -66,17 +66,17 @@ Expected Graduation / Graduated: Dec 2024
 ### VanillaNN(https://github.com/CCosmoe/neuralnetworks)
 A neural network framework built entirely from scratch using only NumPy(no pytorch or tensorflow). Implements custom forward/backward propagation, activation functions (ReLU, Softmax), and cross-entropy loss with manual backprop. Deployed with an interactive Streamlit interface where you can tune the learning rate and epochs and watch the model train in real time.
 **Tech used:** Python, NumPy, Streamlit
-Live Demo(https://neuralnetworks-hzjnmmyyvogdmmpkurmtnr.streamlit.app/) | [Repo](https://github.com/CCosmoe/neuralnetworks)
+[Live Demo](https://neuralnetworks-hzjnmmyyvogdmmpkurmtnr.streamlit.app/) | [Repo](https://github.com/CCosmoe/neuralnetworks)
 
 ### Knowledge Bot(https://github.com/CCosmoe/KnowledgeBot)
 Reduced IT support response time for Cal Poly students and professors by building a chatbot for Cal Poly ITS that answers common inquiries automatically using TF-IDF and OpenAI. Improved response accuracy by 80% by preprocessing 381 Knowledge Base files with NLTK for tokenization and stemming, then applying TF-IDF analysis to surface the top 3 most relevant documents per query.
 **Tech used:** Python, OpenAI, NLTK, TF-IDF
-Repo(https://github.com/CCosmoe/KnowledgeBot)
+[Repo](https://github.com/CCosmoe/KnowledgeBot)
 
 ### [Pet Connect](https://github.com/CSC307Fall2023/PetPlace)
 A full-stack web platform that lets users create profiles and connect with each other, built to make it easy for pet owners to find and message one another. Designed and implemented RESTful APIs for profile operations, and added a real-time chat feature supporting instant, low-latency messaging across 5+ user groups, driving the creation of 25+ profiles.
 **Tech used:** React, Javascript, Node.js, RESTful APIs
-Repo(https://github.com/CSC307Fall2023/PetPlace)
+[Repo](https://github.com/CSC307Fall2023/PetPlace)
 
 ---
 
