@@ -63,12 +63,12 @@ Expected Graduation / Graduated: Dec 2024
 
 ## 🚀 Featured Projects
 
-### VanillaNN(https://github.com/CCosmoe/neuralnetworks)
+### [VanillaNN](https://github.com/CCosmoe/neuralnetworks)
 A neural network framework built entirely from scratch using only NumPy(no pytorch or tensorflow). Implements custom forward/backward propagation, activation functions (ReLU, Softmax), and cross-entropy loss with manual backprop. Deployed with an interactive Streamlit interface where you can tune the learning rate and epochs and watch the model train in real time.
 **Tech used:** Python, NumPy, Streamlit
 [Live Demo](https://neuralnetworks-hzjnmmyyvogdmmpkurmtnr.streamlit.app/) | [Repo](https://github.com/CCosmoe/neuralnetworks)
 
-### Knowledge Bot(https://github.com/CCosmoe/KnowledgeBot)
+### [Knowledge Bot](https://github.com/CCosmoe/KnowledgeBot)
 Reduced IT support response time for Cal Poly students and professors by building a chatbot for Cal Poly ITS that answers common inquiries automatically using TF-IDF and OpenAI. Improved response accuracy by 80% by preprocessing 381 Knowledge Base files with NLTK for tokenization and stemming, then applying TF-IDF analysis to surface the top 3 most relevant documents per query.
 **Tech used:** Python, OpenAI, NLTK, TF-IDF
 [Repo](https://github.com/CCosmoe/KnowledgeBot)
