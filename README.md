@@ -2,7 +2,7 @@
 
 **[AI/ML engineer building LLM evaluation systems and deep learning models with Python, PyTorch, and LangChain/OpenAI]**
 
-Currently: Working as an Apprentice at [Flatiron School](https://flatironschool.com)
+Currently: Working as an Apprentice at Flatiron School(https://flatironschool.com)
 
 ---
 
