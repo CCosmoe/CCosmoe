@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad
 
-**[AI/ML engineer building LLM evaluation systems and deep learning models with Python, PyTorch, and LangChain/OpenAI]**
+**AI/ML engineer building LLM evaluation systems and deep learning models with Python, PyTorch, and LangChain/OpenAI**
 
 Currently: Working as an Apprentice at Flatiron School(https://flatironschool.com)
 
@@ -39,13 +39,13 @@ Currently: Working as an Apprentice at Flatiron School(https://flatironschool.co
 ## 🎓 Education
 
 **Flatiron School** (Online)
-Certificate: [AI & Data Science]
+Certificate: AI & Data Science
 Expected Graduation: April 2027
-*This is part of the [Accelerated AI Engineering Immersive](https://flatironschool.com) program*
+*This is part of the Accelerated AI Engineering Immersive(https://flatironschool.com) program*
 
-**[California Polytechnic State University San Luis Obispo]** (In-person)
-[Bachelors of Science]: [Computer Science]
-Expected Graduation / Graduated: [Dec 2024]
+**California Polytechnic State University San Luis Obispo** (In-person)
+Bachelors of Science: Computer Science
+Expected Graduation / Graduated: Dec 2024
 
 ---
 ## 💼 Work
@@ -53,7 +53,7 @@ Expected Graduation / Graduated: [Dec 2024]
 **Employer:** Flatiron School
 **Location:** Remote
 **Start Date:** Mar 2026
-*This is part of the [Accelerated AI Engineering Immersive](https://flatironschool.com) program*
+*This is part of the Accelerated AI Engineering Immersive(https://flatironschool.com) program*
 
 **Previously:**
 - **Founder** — Helwa AI · Remote · Aug 2025 – Present
@@ -63,20 +63,20 @@ Expected Graduation / Graduated: [Dec 2024]
 
 ## 🚀 Featured Projects
 
-### [VanillaNN](https://github.com/CCosmoe/neuralnetworks)
+### VanillaNN(https://github.com/CCosmoe/neuralnetworks)
 A neural network framework built entirely from scratch using only NumPy(no pytorch or tensorflow). Implements custom forward/backward propagation, activation functions (ReLU, Softmax), and cross-entropy loss with manual backprop. Deployed with an interactive Streamlit interface where you can tune the learning rate and epochs and watch the model train in real time.
 **Tech used:** Python, NumPy, Streamlit
-[Live Demo](https://neuralnetworks-hzjnmmyyvogdmmpkurmtnr.streamlit.app/) | [Repo](https://github.com/CCosmoe/neuralnetworks)
+Live Demo(https://neuralnetworks-hzjnmmyyvogdmmpkurmtnr.streamlit.app/) | [Repo](https://github.com/CCosmoe/neuralnetworks)
 
-### [Knowledge Bot](https://github.com/CCosmoe/KnowledgeBot)
+### Knowledge Bot(https://github.com/CCosmoe/KnowledgeBot)
 Reduced IT support response time for Cal Poly students and professors by building a chatbot for Cal Poly ITS that answers common inquiries automatically using TF-IDF and OpenAI. Improved response accuracy by 80% by preprocessing 381 Knowledge Base files with NLTK for tokenization and stemming, then applying TF-IDF analysis to surface the top 3 most relevant documents per query.
 **Tech used:** Python, OpenAI, NLTK, TF-IDF
-[Repo](https://github.com/CCosmoe/KnowledgeBot)
+Repo(https://github.com/CCosmoe/KnowledgeBot)
 
 ### [Pet Connect](https://github.com/CSC307Fall2023/PetPlace)
 A full-stack web platform that lets users create profiles and connect with each other, built to make it easy for pet owners to find and message one another. Designed and implemented RESTful APIs for profile operations, and added a real-time chat feature supporting instant, low-latency messaging across 5+ user groups, driving the creation of 25+ profiles.
 **Tech used:** React, Javascript, Node.js, RESTful APIs
-[Repo](https://github.com/CSC307Fall2023/PetPlace)
+Repo(https://github.com/CSC307Fall2023/PetPlace)
 
 ---
 
