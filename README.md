@@ -40,7 +40,7 @@ Currently: Working as an Apprentice at [Flatiron School](https://flatironschool.
 
 **Flatiron School** (Online)
 Certificate: [AI & Data Science]
-Expected Graduation: [April 2027]
+Expected Graduation: April 2027
 *This is part of the [Accelerated AI Engineering Immersive](https://flatironschool.com) program*
 
 **[California Polytechnic State University San Luis Obispo]** (In-person)
@@ -52,7 +52,7 @@ Expected Graduation / Graduated: [Dec 2024]
 **Title:** AI Engineering Immersive
 **Employer:** Flatiron School
 **Location:** Remote
-**Start Date:** [Mar 2026]
+**Start Date:** Mar 2026
 *This is part of the [Accelerated AI Engineering Immersive](https://flatironschool.com) program*
 
 **Previously:**
