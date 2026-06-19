@@ -45,7 +45,7 @@ Expected Graduation: April 2027
 
 **California Polytechnic State University San Luis Obispo** (In-person)
 Bachelors of Science: Computer Science
-Expected Graduation / Graduated: Dec 2024
+Graduated: Dec 2024
 
 ---
 ## 💼 Work
