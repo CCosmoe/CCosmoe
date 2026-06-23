@@ -41,7 +41,7 @@ Currently: Working as an Apprentice at Flatiron School(https://flatironschool.co
 **Flatiron School** (Online)
 Certificate: AI & Data Science
 Expected Graduation: April 2027
-*This is part of the Accelerated AI Engineering Immersive(https://flatironschool.com) program.*
+*This is part of the Accelerated AI Engineering Immersive(https://flatironschool.com) program*
 
 **California Polytechnic State University San Luis Obispo** (In-person)
 Bachelors of Science: Computer Science
@@ -53,7 +53,7 @@ Graduated: Dec 2024
 **Employer:** Flatiron School
 **Location:** Remote
 **Start Date:** Mar 2026
-*This is part of the Accelerated AI Engineering Immersive(https://flatironschool.com) program.*
+*This is part of the Accelerated AI Engineering Immersive(https://flatironschool.com) program*
 
 **Previously:**
 - **Founder** — Helwa AI · Remote · Aug 2025 – Present
