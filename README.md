@@ -57,7 +57,7 @@ Graduated: Dec 2024
 
 **Previously:**
 - **Founder** — Helwa AI · Remote · Aug 2025 – Present
-- **Software Engineer Intern** — Righton Education · Remote · Jan 2024 – Apr 2026
+- **Software Engineer Intern** — Righton Education · Remote · Jan 2024 – Mar 2026
 - **ML Engineer Intern** — Motate · Remote · Feb 2025 – Apr 2025
 ---
 
