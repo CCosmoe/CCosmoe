@@ -65,7 +65,7 @@ Graduated: Dec 2024
 
 ### [VanillaNN](https://github.com/CCosmoe/neuralnetworks)
 A neural network framework built entirely from scratch using only NumPy(no pytorch or tensorflow). Implements custom forward/backward propagation, activation functions (ReLU, Softmax), and cross-entropy loss. Deployed with an interactive Streamlit interface where you can tune the learning rate and epochs and watch the model train in real time.
-**Tech used:** Python, NumPy, Streamlit
+**Tech used:** Python, NumPy, OpenAI, Streamlit
 [Live Demo](https://neuralnetworks-hzjnmmyyvogdmmpkurmtnr.streamlit.app/) | [Repo](https://github.com/CCosmoe/neuralnetworks) | [Article](https://www.linkedin.com/pulse/building-neural-network-from-scratch-numpy-muhammad-qureshi-ihbwc)
 
 ### [Knowledge Bot](https://github.com/CCosmoe/KnowledgeBot)
