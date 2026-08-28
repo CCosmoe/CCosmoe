@@ -72,7 +72,7 @@ A neural network framework built entirely from scratch using only NumPy(no pytor
 [Live Demo](https://neuralnetworks-hzjnmmyyvogdmmpkurmtnr.streamlit.app/) | [Repo](https://github.com/CCosmoe/neuralnetworks) | [Article](https://www.linkedin.com/pulse/building-neural-network-from-scratch-numpy-muhammad-qureshi-ihbwc)
 
 ### [Knowledge Bot](https://github.com/CCosmoe/KnowledgeBot)
-Reduced IT support response time for Cal Poly students and faculty by building a RAG-based chatbot that automatically answered common ITS inquiries using TF-IDF retrieval and OpenAI. Improved response accuracy by 80% by preprocessing 381 Knowledge Base files with NLTK for tokenization and stemming, then retrieving the top 3 most relevant documents as context for GPT-generated responses.
+Reduced IT support response time for Cal Poly students and faculty by building a RAG-based chatbot that automatically answered common ITS inquiries using TF-IDF retrieval and OpenAI. Improved response accuracy by 80% by preprocessing 381 Knowledge Base files with NLTK for tokenization and stemming, then retrieving the top 3 most relevant documents as context for OpenAI-generated responses.
 **Tech used:** Python, OpenAI, NLTK, TF-IDF, RAG
 [Repo](https://github.com/CCosmoe/KnowledgeBot)
 
