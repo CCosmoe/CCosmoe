@@ -48,7 +48,7 @@ Graduated: Dec 2024
 
 ---
 ## 💼 Work
-**Title:** AI Engineering Immersive
+**Title:** AI Engineer
 **Employer:** Flatiron School
 **Location:** Remote
 **Start Date:** Mar 2026
