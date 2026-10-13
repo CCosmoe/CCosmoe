@@ -31,6 +31,7 @@ Currently: Working as an Apprentice at Flatiron School(https://flatironschool.co
 
 ## 📚 Currently Learning / Expanding
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 
 ---
