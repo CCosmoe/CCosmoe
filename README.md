@@ -63,9 +63,13 @@ Graduated: Dec 2024
 
 ## 🚀 Featured Projects
 
-### [VanillaNN](https://github.com/CCosmoe/neuralnetworks)
-A neural network framework built entirely from scratch using only NumPy(no pytorch or tensorflow). Implements custom forward/backward propagation, activation functions (ReLU, Softmax), and cross-entropy loss. Deployed with an interactive Streamlit interface where you can tune the learning rate and epochs and watch the model train in real time.
-**Tech used:** Python, NumPy, Streamlit
+### 🧠 [VanillaNN](https://github.com/CCosmoe/VanillaNN)
+A neural network written entirely in NumPy, no PyTorch or TensorFlow, with every gradient computed by hand through backpropagation. Reaches 98% accuracy on unseen test data.
+
+Beyond the model itself, it's built like a real product: a FastAPI service with validated inputs, containerized with Docker and deployed on Render. GitHub Actions runs tests on every push, including an accuracy regression check that fails the build if the model gets worse. A Streamlit app lets you tweak the learning rate and epochs and watch it train live.
+
+**Tech used:** Python · NumPy · FastAPI · Docker · Render · GitHub Actions · Pytest · Streamlit
+
 [Live Demo](https://neuralnetworks-hzjnmmyyvogdmmpkurmtnr.streamlit.app/) | [Repo](https://github.com/CCosmoe/neuralnetworks) | [Article](https://www.linkedin.com/pulse/building-neural-network-from-scratch-numpy-muhammad-qureshi-ihbwc)
 
 ### [Knowledge Bot](https://github.com/CCosmoe/KnowledgeBot)
