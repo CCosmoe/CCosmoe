@@ -68,7 +68,7 @@ A neural network written entirely in NumPy, no PyTorch or TensorFlow, with every
 
 Beyond the model itself, it's built like a real product: a FastAPI service with validated inputs, containerized with Docker and deployed on Render. GitHub Actions runs tests on every push, including an accuracy regression check that fails the build if the model gets worse. A Streamlit app lets you tweak the learning rate and epochs and watch it train live.
 
-**Tech used:** Python · NumPy · FastAPI · Docker · Render · GitHub Actions · Pytest · Streamlit
+**Tech used:** Python · NumPy · FastAPI · Docker · Render · GitHub Actions · Pytest · Streamlit · Hugging Face
 
 [Live Demo](https://neuralnetworks-hzjnmmyyvogdmmpkurmtnr.streamlit.app/) | [Repo](https://github.com/CCosmoe/neuralnetworks) | [Article](https://www.linkedin.com/pulse/building-neural-network-from-scratch-numpy-muhammad-qureshi-ihbwc)
 
