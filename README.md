@@ -61,7 +61,7 @@ Graduated: Dec 2024
 - **ML Engineer Intern** — Motate · Remote · Feb 2025 – Apr 2025
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🧠 [VanillaNN](https://github.com/CCosmoe/VanillaNN)
 A neural network written entirely in NumPy, no PyTorch or TensorFlow, with every gradient computed by hand through backpropagation. Reaches 98% accuracy on unseen test data.
