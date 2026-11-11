@@ -63,7 +63,7 @@ Graduated: Dec 2024
 
 ## Featured Projects
 
-### 🧠 [VanillaNN]([https://github.com/CCosmoe/VanillaNN](https://github.com/CCosmoe/neuralnetworks)
+### 🧠 [VanillaNN](https://github.com/CCosmoe/VanillaNN](https://github.com/CCosmoe/neuralnetworks)
 A neural network written entirely in NumPy, no PyTorch or TensorFlow, with every gradient computed by hand through backpropagation. Reaches 98% accuracy on unseen test data.
 
 Beyond the model itself, it's built like a real product: a FastAPI service with validated inputs, containerized with Docker and deployed on Render. GitHub Actions runs tests on every push, including an accuracy regression check that fails the build if the model gets worse. A Streamlit app lets you tweak the learning rate and epochs and watch it train live.
