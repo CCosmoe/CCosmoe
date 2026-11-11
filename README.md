@@ -75,7 +75,7 @@ Beyond the model itself, it's built like a real product: a FastAPI service with 
 ### 🤖 [Knowledge Bot](https://github.com/CCosmoe/KnowledgeBot)
 A RAG chatbot that answers common IT support questions for Cal Poly students and faculty, cutting response time for the ITS team.
 
-Under the hood, it preprocesses 381 Knowledge Base articles with NLTK (tokenization and stemming), ranks them with TF-IDF retrieval, and passes the top 3 most relevant documents to OpenAI as context. Grounding answers in real ITS documentation improved response accuracy by 80%.
+The pipeline preprocesses 381 Knowledge Base articles with NLTK (tokenization and stemming), ranks them with TF-IDF retrieval, and passes the top 3 most relevant documents to OpenAI as context. Grounding answers in real ITS documentation improved response accuracy by 80%.
 
 **Tech used:** Python · OpenAI · NLTK · TF-IDF · RAG
 
