@@ -77,7 +77,7 @@ A RAG chatbot that answers common IT support questions for Cal Poly students and
 
 The pipeline preprocesses 381 Knowledge Base articles with NLTK (tokenization and stemming), ranks them with TF-IDF retrieval, and passes the top 3 most relevant documents to OpenAI as context. Grounding answers in real ITS documentation improved response accuracy by 80%.
 
-**Tech used:** Python · OpenAI · NLTK · TF-IDF · RAG
+**Tech used:** Python · OpenAI · NLTK · RAG
 
 [Repo](https://github.com/CCosmoe/KnowledgeBot)
 
